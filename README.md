@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **isupiyumal@gmail.com**
 
-- ⚡ Fun fact **call me as Athuu**
+- ⚡ Fun fact **call me as Athuu!**
 
   
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
@@ -24,11 +24,11 @@
 <tr border="none">
 <td width="50%" align="center">
   
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=athukoralaa&theme=blue_green" height="180em" />
+<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=athukoralaa&theme=solarized_dark" height="180em" />
 
 </td>
 <td width="50%" align="center">
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=athukoralaa&theme=blue_green&v=1" height="180em" />
+<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=athukoralaa&theme=solarized_dark&v=1" height="180em" />
 
   
   </td>
@@ -36,7 +36,7 @@
 </table>
 
   <p align="center">
-    <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=athukoralaa&theme=blue_green" height="180em"/>
+    <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Athukoralaa&theme=solarized_dark" height="180em"/>
 
   </p>
 
@@ -46,9 +46,15 @@
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
-<a href="https://linkedin.com/in/isuru-piyumal-athukorala" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="isuru-piyumal-athukorala" height="30" width="40" /></a>
-<a href="https://instagram.com/mr_athuu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mr_athuu" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/athukoralashop" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="athukoralashop" height="30" width="40" /></a>
+  <a href="https://linkedin.com/in/isuru-piyumal-athukorala" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+  <a href="https://instagram.com/mr_athuu" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
+  </a>
+  <a href="https://www.hackerrank.com/athukoralashop" target="_blank">
+    <img src="https://img.shields.io/badge/Hackerrank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" alt="Hackerrank">
+  </a>
 </p>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
@@ -130,6 +136,6 @@
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 <p align="center">
-  <img  align="center"  src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=athukoralaa&theme=dark&hide_border=false&no-bg=true&no-frame=true&langs_count=10"/>
+  <img  align="center"  src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=athukoralaa&theme=dark&langs_count=10"/>
 </p>
 
