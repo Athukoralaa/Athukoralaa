@@ -20,7 +20,7 @@
 
 
 <p align="center">
-<table align="center">
+<table align="center" border="none">
 <tr border="none">
 <td width="50%" align="center">
   
@@ -36,11 +36,26 @@
 </table>
 
   <p align="center">
-    <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Athukoralaa&theme=solarized_dark" height="180em"/>
+    <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Athukoralaa&theme=solarized_dark" height="180em"/><br>
 
   </p>
 
+<table align="center" border="none">
+<tr border="none">
+<td width="50%" align="center">
+          <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Athukoralaa&theme=solarized_dark" height="180em" />
 
+  
+
+</td>
+<td width="50%" align="center">
+    <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Athukoralaa&theme=solarized_dark" height="180em" />
+
+
+  
+  </td>
+</tr>
+</table>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
